@@ -38,7 +38,7 @@ modularization approach.
 Clone the repository:
 
 ```shell
-git clone https://github.com/christianjtr/vanila-javascript-exercise.git
+git clone https://github.com/christianjtr/vanilla-javascript-exercise.git
 ```
 
 
